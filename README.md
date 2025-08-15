@@ -228,10 +228,9 @@ for value, index in zip(values, indices):
 
 如有问题或建议，请通过以下方式联系：
 - 提交 [Issue](https://github.com/bi32/clip-all-you-need-to-know/issues)
-- 发送邮件至：[您的邮箱]
 
 ---
 
 **开始您的CLIP学习之旅吧！** 🎉
 
-> 最后更新：2024年
+> 最后更新：2025年8月
